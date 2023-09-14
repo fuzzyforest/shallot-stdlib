@@ -1,0 +1,12 @@
+[package]
+name = "shallot-stdlib"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.75"
+shallot = { path = "../shallot" }
+shallot-strings = { path = "../shallot-strings" }
+shallot-hashmap = { path = "../shallot-hashmap" }
