@@ -10,3 +10,4 @@ anyhow = "1.0.75"
 shallot = { path = "../shallot" }
 shallot-strings = { path = "../shallot-strings" }
 shallot-hashmap = { path = "../shallot-hashmap" }
+shallot-regex = { path = "../shallot-regex" }
